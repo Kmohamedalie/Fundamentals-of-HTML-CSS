@@ -205,7 +205,8 @@ h2::before {
   margin-top: 16px;
   width: 370px;
   float: left;
-  padding: 0 80px;
+  padding-left: 100px;
+  padding-right: 20px;
 }
 
 .containerProdDetails {
