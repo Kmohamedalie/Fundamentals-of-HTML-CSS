@@ -1,6 +1,6 @@
-# [Responsive web🌐 design with HTML5🦴 and CSS3🎨🖌️🖼️](https://rd-html-css.netlify.app/)
+# [Responsive web🌐 design ](https://rd-html-css.netlify.app/)
 
-[Building responsive website](https://rd-html-css.netlify.app/) with HTML5 and CSS3, the following is part of a udemy course [
+[Building responsive website](https://rd-html-css.netlify.app/) with HTML5🦴 and CSS3🎨🖌️🖼️, the following is part of a udemy course [
 Build Responsive Real-World Websites with HTML and CSS]( https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/learn/lecture/27512178#overview) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/). 
 
 ⚠️ Disclaimer from the tutor [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/): Please do not claim as yours, and can be use only for portfolio display as part of the course.
